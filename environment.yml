@@ -1,0 +1,41 @@
+name: upwelling_post
+channels:
+  - conda-forge
+  - pyviz
+dependencies:
+  - bottleneck
+  - cachey
+  - cartopy
+  - cf_xarray
+  - cftime
+  - colorcet
+  - dask
+  - dask-jobqueue
+  - dask_labextension
+  - distributed
+  - h5py
+  - hdf5
+  - ipympl
+  - ipython
+  - ipywidgets
+  - jupyter
+  - jupyterlab
+  - jupyter-server-proxy
+  - matplotlib
+  - netcdf4
+  - nc-time-axis
+  - ncar-jobqueue
+  - nodejs
+  - notebook
+  - numba
+  - pandas!=1.1.0
+  - pep8
+  - pip
+  - seaborn
+  - seawater
+  - scipy
+  - tqdm
+  - xarray
+  - xgcm
+  - watermark
+  - zarr
